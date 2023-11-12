@@ -373,7 +373,7 @@
     </div>
 
     <script async src="https://kit.fontawesome.com/5da4f89d11.js" crossorigin="anonymous"></script>
-    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="https://unpkg.com/vue@3/dist/vue.global.prod.js"></script>
     <script src="/js/main.js?v=<?=filemtime('js/main.js')?>"></script>
     <script src="/js/selector.js?v=<?=filemtime('js/selector.js')?>"></script>
   </body>
