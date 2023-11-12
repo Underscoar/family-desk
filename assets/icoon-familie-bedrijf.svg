@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.8, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Laag_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 40 40" style="enable-background:new 0 0 40 40;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_00000010992423341664115200000017939234307669237895_);fill:none;stroke:#ED6B06;stroke-width:1.683;}
+	.st1{fill:none;stroke:#ED6B06;stroke-width:1.683;stroke-linejoin:round;}
+	.st2{clip-path:url(#SVGID_00000015320960973022929050000001992845014038184378_);fill:none;stroke:#ED6B06;stroke-width:1.683;}
+	.st3{fill:none;stroke:#ED6B06;stroke-width:1.683;stroke-linecap:round;stroke-linejoin:round;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="0.8" y="0.6" width="39.2" height="39.2"/>
+	</defs>
+	<clipPath id="SVGID_00000101807295447198976070000015279976352209362309_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	
+		<circle style="clip-path:url(#SVGID_00000101807295447198976070000015279976352209362309_);fill:none;stroke:#ED6B06;stroke-width:1.683;" cx="20.4" cy="20.2" r="18.8"/>
+	
+		<path style="clip-path:url(#SVGID_00000101807295447198976070000015279976352209362309_);fill:none;stroke:#ED6B06;stroke-width:1.683;" d="
+		M7.4,20.2c0,7.2,5.8,12.9,12.9,12.9"/>
+</g>
+<polygon class="st1" points="19.4,12.7 14.4,7.7 9.5,12.7 11,12.7 11,19.6 17.7,19.6 17.7,12.7 "/>
+<g>
+	<defs>
+		<rect id="SVGID_00000065773614490870118740000014894889230608002441_" x="0.8" y="0.6" width="39.2" height="39.2"/>
+	</defs>
+	<clipPath id="SVGID_00000162352915377011396770000006473876689931653782_">
+		<use xlink:href="#SVGID_00000065773614490870118740000014894889230608002441_"  style="overflow:visible;"/>
+	</clipPath>
+	
+		<path style="clip-path:url(#SVGID_00000162352915377011396770000006473876689931653782_);fill:none;stroke:#ED6B06;stroke-width:1.683;" d="
+		M33.3,20.2c0-7.2-5.8-12.9-13-12.9"/>
+</g>
+<rect x="23.1" y="21.4" class="st1" width="7.4" height="10.2"/>
+<line class="st1" x1="25" y1="24.2" x2="28.5" y2="24.2"/>
+<line class="st1" x1="25" y1="26.5" x2="28.5" y2="26.5"/>
+<line class="st1" x1="25" y1="28.8" x2="28.5" y2="28.8"/>
+<polyline class="st3" points="17.7,35.4 20.2,32.9 17.7,30.4 "/>
+<polyline class="st3" points="22.2,9.8 19.7,7.3 22.2,4.8 "/>
+</svg>
